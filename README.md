@@ -1,3 +1,6 @@
+<h1 align="center">Olá pessoas! 👽</h1>
+<h3 align="center">Este código foi usado como forma de estudo e aprimoramento de meus conhecimentos em React e Typescript. Eles estão como video-aula no canal do Nonieky Lacerda, que por sinal é um ótimo professor e tem ótima didatica.</h3>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
